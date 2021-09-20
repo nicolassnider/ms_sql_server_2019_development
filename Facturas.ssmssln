@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# SQL Server Management Studio Solution File, Format Version 18.00
+VisualStudioVersion = 15.0.28307.421
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{4F2E2C19-372F-40D8-9FA7-9D2138C6997A}") = "Facturas", "Facturas\Facturas.ssmssqlproj", "{E088F7C6-598C-41FF-8BC2-D0EB35C33AD9}"
+EndProject
+Project("{4F2E2C19-372F-40D8-9FA7-9D2138C6997A}") = "GestionTienda", "GestionTienda\GestionTienda.ssmssqlproj", "{C361CAC9-AC8A-43BB-8709-FED4D1E7F8D8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Default|Default = Default|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E088F7C6-598C-41FF-8BC2-D0EB35C33AD9}.Default|Default.ActiveCfg = Default
+		{D4B1F01C-080E-44C6-8088-EB29868BC0A0}.Default|Default.ActiveCfg = Default
+		{C361CAC9-AC8A-43BB-8709-FED4D1E7F8D8}.Default|Default.ActiveCfg = Default
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {712DB506-55A3-4345-8802-B69DF7B107A9}
+	EndGlobalSection
+EndGlobal
