@@ -19,11 +19,59 @@
     </LogicalFolder>
     <LogicalFolder Name="Queries" Type="0" Sorted="true">
       <Items>
-        <FileNode Name="1 Select top as.sql">
+        <FileNode Name="01 Select top as.sql">
           <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:SOULIT:False:Sa</AssociatedConnectionMoniker>
           <AssociatedConnSrvName>SOULIT</AssociatedConnSrvName>
           <AssociatedConnUserName>Sa</AssociatedConnUserName>
-          <FullPath>1 Select top as.sql</FullPath>
+          <FullPath>01 Select top as.sql</FullPath>
+        </FileNode>
+        <FileNode Name="04 where between mayor menor.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:SOULIT:False:Sa</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>SOULIT</AssociatedConnSrvName>
+          <AssociatedConnUserName>Sa</AssociatedConnUserName>
+          <FullPath>04 where between mayor menor.sql</FullPath>
+        </FileNode>
+        <FileNode Name="06 fechas.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:SOULIT:False:Sa</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>SOULIT</AssociatedConnSrvName>
+          <AssociatedConnUserName>Sa</AssociatedConnUserName>
+          <FullPath>06 fechas.sql</FullPath>
+        </FileNode>
+        <FileNode Name="07 operaciones aritmeticas.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:SOULIT:False:Sa</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>SOULIT</AssociatedConnSrvName>
+          <AssociatedConnUserName>Sa</AssociatedConnUserName>
+          <FullPath>07 operaciones aritmeticas.sql</FullPath>
+        </FileNode>
+        <FileNode Name="08 group by.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:SOULIT:False:Sa</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>SOULIT</AssociatedConnSrvName>
+          <AssociatedConnUserName>Sa</AssociatedConnUserName>
+          <FullPath>08 group by.sql</FullPath>
+        </FileNode>
+        <FileNode Name="09 having.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:SOULIT:False:Sa</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>SOULIT</AssociatedConnSrvName>
+          <AssociatedConnUserName>Sa</AssociatedConnUserName>
+          <FullPath>09 having.sql</FullPath>
+        </FileNode>
+        <FileNode Name="10 cast convert.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:SOULIT:False:Sa</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>SOULIT</AssociatedConnSrvName>
+          <AssociatedConnUserName>Sa</AssociatedConnUserName>
+          <FullPath>10 cast convert.sql</FullPath>
+        </FileNode>
+        <FileNode Name="10_1 R35Estudio de clientes.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:SOULIT:False:Sa</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>SOULIT</AssociatedConnSrvName>
+          <AssociatedConnUserName>Sa</AssociatedConnUserName>
+          <FullPath>10_1 R35Estudio de clientes.sql</FullPath>
+        </FileNode>
+        <FileNode Name="10_2 R35Estudio de productos.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:SOULIT:False:Sa</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>SOULIT</AssociatedConnSrvName>
+          <AssociatedConnUserName>Sa</AssociatedConnUserName>
+          <FullPath>10_2 R35Estudio de productos.sql</FullPath>
         </FileNode>
       </Items>
     </LogicalFolder>

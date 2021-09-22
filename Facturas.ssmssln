@@ -7,14 +7,20 @@ Project("{4F2E2C19-372F-40D8-9FA7-9D2138C6997A}") = "Facturas", "Facturas\Factur
 EndProject
 Project("{4F2E2C19-372F-40D8-9FA7-9D2138C6997A}") = "GestionTienda", "GestionTienda\GestionTienda.ssmssqlproj", "{C361CAC9-AC8A-43BB-8709-FED4D1E7F8D8}"
 EndProject
+Project("{4F2E2C19-372F-40D8-9FA7-9D2138C6997A}") = "TrabajoTienda", "TrabajoTienda\TrabajoTienda.ssmssqlproj", "{A5290384-8267-4480-AA49-767281664D37}"
+EndProject
+Project("{4F2E2C19-372F-40D8-9FA7-9D2138C6997A}") = "backups", "backups\backups.ssmssqlproj", "{6F6CCC4D-3623-482C-B865-E8F413197B22}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Default|Default = Default|Default
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
 		{E088F7C6-598C-41FF-8BC2-D0EB35C33AD9}.Default|Default.ActiveCfg = Default
-		{D4B1F01C-080E-44C6-8088-EB29868BC0A0}.Default|Default.ActiveCfg = Default
 		{C361CAC9-AC8A-43BB-8709-FED4D1E7F8D8}.Default|Default.ActiveCfg = Default
+		{02BC12BE-96FB-47EA-9E19-042661EE33B0}.Default|Default.ActiveCfg = Default
+		{A5290384-8267-4480-AA49-767281664D37}.Default|Default.ActiveCfg = Default
+		{6F6CCC4D-3623-482C-B865-E8F413197B22}.Default|Default.ActiveCfg = Default
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
